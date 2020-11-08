@@ -14,4 +14,4 @@
 
 
 复现：
-先运行clean.py，再运行lstm.py。
+运行顺序clean.py-lstm.py。
